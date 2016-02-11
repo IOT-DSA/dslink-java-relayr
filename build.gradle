@@ -17,8 +17,8 @@ repositories {
 
 dependencies {
     compile 'org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.0.2'
-    compile 'org.iot-dsa:commons:0.14.0'
-    compile 'org.iot-dsa:dslink:0.14.0'
+    compile 'org.iot-dsa:commons:0.14.1'
+    compile 'org.iot-dsa:dslink:0.14.1'
     compile 'io.relayr:java-sdk:1.0.6'
 }
 
